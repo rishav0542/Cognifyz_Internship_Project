@@ -1,6 +1,6 @@
 Data Analytics Internship
 
-## **2. Cognifyz Internship Project**
+## **Cognifyz Internship Project**
 
 ### `README.md`
 
@@ -51,7 +51,7 @@ Analyzed Zomato restaurant dataset (9,551 records) covering **15 countries** to 
 ---
 
 #Visuals
-1.![Top 3 Cuisines]()
+1.![Top 3 Cuisines](Images/Distribution of Aggregate Ratings Among Restaurants.png)
 
 2.![Top 10 cities with Most Restaurants]()
 
