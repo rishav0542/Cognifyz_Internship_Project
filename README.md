@@ -50,8 +50,8 @@ Analyzed Zomato restaurant dataset (9,551 records) covering **15 countries** to 
 
 ---
 
-#Visuals
-1.![Top 3 Cuisines](Images/Distribution of Aggregate Ratings Among Restaurants.png)
+#Visuals:
+![Top 3 Cuisines](https://github.com/rishav0542/Cognifyz_Internship_Project/blob/main/Images/Distribution%20of%20Aggregate%20Ratings%20Among%20Restaurants.png)
 
 2.![Top 10 cities with Most Restaurants]()
 
