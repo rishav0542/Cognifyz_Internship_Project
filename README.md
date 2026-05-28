@@ -1,10 +1,9 @@
 Data Analytics Internship
 
-## **Cognifyz Internship Project**
+## **Cognifyz Data Analytics Internship Project**
 
 ### `README.md`
 
-```markdown
 # 🍽️ Cognifyz Technologies - Data Analysis Internship
 
 **Level 1 + Level 2** | Restaurant Data Analysis
@@ -51,17 +50,23 @@ Analyzed Zomato restaurant dataset (9,551 records) covering **15 countries** to 
 ---
 
 #Visuals:
-![Top 3 Cuisines](https://github.com/rishav0542/Cognifyz_Internship_Project/blob/main/Images/Distribution%20of%20Aggregate%20Ratings%20Among%20Restaurants.png)
+![Top 3 Cuisines]<img width="2970" height="2681" alt="Top 3 Cuisines" src="https://github.com/user-attachments/assets/bab93b49-9bd3-4f6b-8b97-738425f58abc" />
 
-2.![Top 10 cities with Most Restaurants]()
 
-3.![Top 10 cities with Highest Rating Restaurants]()
+2.![Top 10 cities with Most Restaurants]<img width="3557" height="2365" alt="Top 10 cities with Most Restaurants" src="https://github.com/user-attachments/assets/6c65479e-727d-4cd2-976f-d770ae9db842" />
 
-4.![Percentage of Restaurants Serving Each Cuisine]()
 
-5.![Ditribution of Price Ranges among Restaurant]()
+3.![Top 10 cities with Highest Rating Restaurants]<img width="3313" height="2100" alt="Top 10 cities with Highest Rating Restaurants" src="https://github.com/user-attachments/assets/603d1f3e-9bbb-45b6-8974-46f60683f53b" />
 
-6.![Distribution of Aggregate Ratings Among Restaurants]()
+
+4.![Percentage of Restaurants Serving Each Cuisine]<img width="2970" height="1769" alt="Percentage of Restaurants Serving Each Cuisine" src="https://github.com/user-attachments/assets/74f90d96-0f2f-481b-b713-0dfce706bcc8" />
+
+
+5.![Ditribution of Price Ranges among Restaurant]<img width="4170" height="2369" alt="Ditribution of Price Ranges among Restaurants" src="https://github.com/user-attachments/assets/118229d3-847f-447e-b236-1555da2f1b15" />
+
+
+6.![Distribution of Aggregate Ratings Among Restaurants]<img width="3519" height="2109" alt="Distribution of Aggregate Ratings Among Restaurants" src="https://github.com/user-attachments/assets/441209aa-f5cf-42b4-9481-9477416a6d99" />
+
 
 
 ---
